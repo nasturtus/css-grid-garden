@@ -9,7 +9,7 @@ body {
   text-align: center;
   background: black;
   color: white;
-  font-family: 'Alegreya Sans SC', sans-serif;
+  font-family: "Alegreya Sans SC", sans-serif;
   font-size: 40px;
   padding: 40px;
 }
@@ -55,7 +55,7 @@ a {
 
 .right-content-bottom {
   padding-top: 20px;
-  font-size: 18px;
+  font-size: 17px;
   font-family: "Spectral", serif;
   font-weight: 200;
   font-style: italic;
