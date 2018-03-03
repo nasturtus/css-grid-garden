@@ -9,9 +9,9 @@ body {
   text-align: center;
   background: black;
   color: white;
-  font-family: "Playfair Display", serif;
-  font-size: 36px;
-  padding: 20px;
+  font-family: 'Alegreya Sans SC', sans-serif;
+  font-size: 40px;
+  padding: 40px;
 }
 
 .navigation-bar {
@@ -39,10 +39,10 @@ a {
 .left-content {
   color: black;
   background: bisque;
-  padding: 20px 20px 10px 20px;
+  padding: 25px;
   font-family: "Spectral", serif;
   font-weight: 200;
-  font-size: 24px;
+  font-size: 20px;
 }
 
 .right-content-grid {
@@ -55,7 +55,7 @@ a {
 
 .right-content-bottom {
   padding-top: 20px;
-  font-size: 20px;
+  font-size: 18px;
   font-family: "Spectral", serif;
   font-weight: 200;
   font-style: italic;
