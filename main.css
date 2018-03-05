@@ -1,6 +1,6 @@
 body {
   margin: 60px 200px auto 200px;
-  background: red;
+  background: brown;
 }
 
 .grid-container {
@@ -48,8 +48,16 @@ a:hover {
 
 .left-content {
   color: black;
+<<<<<<< HEAD
   background: bisque;
   padding: 20px;
+||||||| merged common ancestors
+  background: bisque;
+  padding: 20px 20px 10px 20px;
+=======
+  background: bisque; 
+  padding: 20px;
+>>>>>>> 4f5920aceebbd608bf2accb9861f70a9e8d4c82d
   font-family: "Spectral", serif;
   font-weight: 200;
   font-size: 120%;
