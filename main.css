@@ -1,6 +1,6 @@
 body {
   margin: 60px 200px auto 200px;
-  background: indianred;
+  background: red;
 }
 
 .grid-container {
@@ -48,7 +48,7 @@ a:hover {
 
 .left-content {
   color: black;
-  background: bisque; 
+  background: bisque;
   padding: 20px;
   font-family: "Spectral", serif;
   font-weight: 200;
